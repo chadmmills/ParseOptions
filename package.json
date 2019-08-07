@@ -1,0 +1,11 @@
+{
+  "name": "parse-options",
+  "version": "1.0.0",
+  "description": "parse command line options",
+  "main": "index.js",
+  "author": "Chad Mills",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
